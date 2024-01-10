@@ -37,7 +37,6 @@ Bem-vindo à Calculadora de Gorjeta em React Native! Esta é uma aplicação sim
    npx react-native run-ios
    ```
 
-5. **Explore e Divirta-se!**
 
 ## Contribuindo
 
